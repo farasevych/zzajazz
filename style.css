@@ -4,14 +4,18 @@
 }
 
 body {
-	font-family: 'Open Sans', sans-serif;
-	background-color: yellow;
+	font-family: monospace;/*'Open Sans', sans-serif;*/
+	background-color: ;
 }
 
 .header {
-	text-align: center;
-	font-size: 60px;
-	color: yellow;
-	background-color: #666;
-	height: 170px;
+	text-align: left;
+	font-size: 1.2em;
+	color: #f69415;
+	background-color: #24292e;
+	height: 55px;
+}
+
+.logo {
+	padding: 10px 0 0 20px;
 }
