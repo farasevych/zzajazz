@@ -5,7 +5,7 @@
 
 body {
 	font-family: monospace;/*'Open Sans', sans-serif;*/
-	background-color: ;
+	background-color: #3f4347;
 }
 
 .header {
@@ -17,7 +17,8 @@ body {
 }
 
 .logo {
-	padding: 10px 0 0 20px;
+	padding: 10px 10px 0 20px;
+	float: left;
 }
 
 .search {
@@ -33,6 +34,8 @@ body {
 	-moz-border-radius: 5px;
 	border-radius: 3px;
 	outline: none;
+	margin-top: 15px;
+	
 }
 
 .search:focus {
